@@ -1,0 +1,17 @@
+Action	Avg Rating: 3.73, Total Ratings: 20
+Adventure	Avg Rating: 3.85, Total Ratings: 30
+Animation	Avg Rating: 4.17, Total Ratings: 6
+Biography	Avg Rating: 4.14, Total Ratings: 14
+Children	Avg Rating: 4.25, Total Ratings: 2
+Comedy	Avg Rating: 3.96, Total Ratings: 12
+Crime	Avg Rating: 3.78, Total Ratings: 20
+Drama	Avg Rating: 3.81, Total Ratings: 76
+Family	Avg Rating: 4.25, Total Ratings: 2
+Fantasy	Avg Rating: 3.95, Total Ratings: 10
+History	Avg Rating: 4.00, Total Ratings: 6
+Music	Avg Rating: 3.88, Total Ratings: 4
+Mystery	Avg Rating: 4.00, Total Ratings: 8
+Romance	Avg Rating: 3.75, Total Ratings: 8
+Sci-Fi	Avg Rating: 3.85, Total Ratings: 20
+Thriller	Avg Rating: 3.88, Total Ratings: 16
+War	Avg Rating: 4.00, Total Ratings: 2
