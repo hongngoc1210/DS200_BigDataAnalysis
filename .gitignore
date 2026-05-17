@@ -25,3 +25,10 @@ build/
 *.pt
 *.onnx
 *json
+.venv/
+# ignore venv
+venv/
+# ignore virtualenv
+virtualenv/
+# ignore success file
+_SUCCESS
