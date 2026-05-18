@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""Bài 2 - Phân tích rating trung bình theo thể loại phim bằng PySpark RDD.
-
-Usage:
-    spark-submit source/bai2.py <ratings_1> <ratings_2> <movies> <output>
-"""
 
 from __future__ import annotations
 

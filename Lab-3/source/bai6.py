@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-"""Bài 6 - Phân tích tổng số lượt đánh giá và rating trung bình theo năm bằng PySpark RDD.
-
-Usage:
-    spark-submit source/bai6.py <ratings_1> <ratings_2> <output>
-"""
-
 from __future__ import annotations
 
 import sys

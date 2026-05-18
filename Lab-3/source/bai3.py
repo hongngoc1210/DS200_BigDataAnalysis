@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""Bài 3 - Phân tích rating trung bình của mỗi phim theo giới tính bằng PySpark RDD.
-
-Usage:
-    spark-submit source/bai3.py <ratings_1> <ratings_2> <movies> <users> <output>
-"""
 
 from __future__ import annotations
 

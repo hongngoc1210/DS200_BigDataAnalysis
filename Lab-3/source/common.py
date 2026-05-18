@@ -1,9 +1,3 @@
-"""Shared PySpark RDD helpers for Lab 3.
-
-All scripts in this folder use the low-level RDD API only.  No Spark SQL
-DataFrame operations are used, because assignments.ipynb explicitly asks for RDD.
-"""
-
 from __future__ import annotations
 
 import csv

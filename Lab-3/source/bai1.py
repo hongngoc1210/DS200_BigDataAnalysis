@@ -1,15 +1,4 @@
 #!/usr/bin/env python3
-"""Bài 1 - Tính rating trung bình và số lượt đánh giá cho mỗi phim bằng PySpark RDD.
-
-Usage:
-    spark-submit source/bai1.py <ratings_1> <ratings_2> <movies> <output> [min_ratings]
-
-Notes:
-    assignments.ipynb có một điểm chưa thống nhất: mục tiêu nói lọc phim có ít
-    nhất 50 lượt đánh giá, phần giải pháp lại ghi ít nhất 5 lượt.  Script này
-    dùng mặc định 5 để phù hợp với dữ liệu lab nhỏ, nhưng có thể truyền tham số
-    cuối là 50 nếu muốn bám sát mục tiêu gốc.
-"""
 
 from __future__ import annotations
 

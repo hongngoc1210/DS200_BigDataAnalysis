@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""Bài 5 - Phân tích rating trung bình và tổng lượt đánh giá theo occupation bằng PySpark RDD.
-
-Usage:
-    spark-submit source/bai5.py <ratings_1> <ratings_2> <users> <occupation> <output>
-"""
 
 from __future__ import annotations
 
